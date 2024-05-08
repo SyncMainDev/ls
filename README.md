@@ -1,0 +1,1 @@
+I get annoyed when I type "ls" to list files in the terminal/cmd because I forgot that I need to type "dir".
